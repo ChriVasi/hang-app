@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Κρεμάλα</string>
+
+
+    <string name="title">Κρεμάλα</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="enter_player1_name">Enter Player 1s name</string>
+    <string name="enter_secret_word">Enter a secret word</string>
+    <string name="enter_player2_name">Enter Player 2s name</string>
+    <string name="start_game">Start Game</string>
+    <string name="show_results">Show Results</string>
+
+
+    <string name="player2_name">Player 2s name</string>
+    <string name="remaining_attempts">Remaining Attempts</string>
+    <string name="guessed_word">Guessed Word</string>
+    <string name="guessed_letters">Guessed Letters: Α,Β,Γ,Δ ...</string>
+    <string name="enter_letter">Enter a letter: Α,Β,Γ,Δ</string>
+    <string name="submit">Submit</string>
+    <string name="start_new">Start New</string>
+
+    <string name="results">Results</string>
+
+
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="playerNameEditText" type="id" />
+    <item name="secretWordEditText" type="id" />
+    <item name="startGameButton" type="id" />
+    <item name="letterInputEditText" type="id" />
+    <item name="guessButton" type="id" />
+    <item name="wordDisplayTextView" type="id" />
+    <item name="guessedLettersTextView" type="id" />
+    <item name="remainingAttemptsTextView" type="id" />
+    <item name="playerNamesTextView" type="id" />
+    <item name="playerNameTextView" type="id" />
+    <item name="guessEditText" type="id" />
+    <item name="submitButton" type="id" />
+    <item name="guessedWordTextView" type="id" />
+    <item name="attemptsTextView" type="id" />
+    <item name="gameHistoryTextView" type="id" />
+    <item name="player1NameEditText" type="id" />
+    <item name="player2NameEditText" type="id" />
+</resources>
