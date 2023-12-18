@@ -49,7 +49,7 @@
             android:hint="@string/enter_player1_name"
             android:textStyle="bold"
             android:layout_marginTop="10dp"
-            android:digits="ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"
+            android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
             android:inputType="textCapCharacters" />
 
 
@@ -60,7 +60,7 @@
             android:hint="@string/enter_secret_word"
             android:textStyle="bold"
             android:layout_marginTop="10dp"
-            android:digits="ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"
+            android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
             android:inputType="textCapCharacters" />
 
 
@@ -79,7 +79,7 @@
             android:hint="@string/enter_player2_name"
             android:textStyle="bold"
             android:layout_marginTop="10dp"
-            android:digits="ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"
+            android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
             android:inputType="textCapCharacters" />
 
         <Button
