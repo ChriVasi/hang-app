@@ -25,3 +25,10 @@ This is a simple Hangman game Android app developed in Java. The game allows pla
 
    ```bash
    git clone https://github.com/ChriVasi/hang-app.git
+
+## License
+
+All rights reserved. This project is proprietary and confidential. No part of this project may be reproduced, distributed, or transmitted in any form or by any means, without the prior written permission of the author.
+
+For inquiries regarding licensing and usage, please contact.
+
